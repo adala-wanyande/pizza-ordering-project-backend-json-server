@@ -10,7 +10,7 @@
     "author": "benard-dev",
     "license": "MIT",
     "dependencies": {
-      "json-server": "^0.17.1"
+      "json-server": "^0.9.1"
     },
     "repository": {
         "type": "git",
