@@ -1,9 +1,8 @@
-// README.md
 # Roselyne's Gourmet Pizza JSON-Server API
 ### Introduction
 This is a repository to store the api backend for the front end project [provided here](https://github.com/benard-dev/pizza-ordering-project.git). The frontend app sends network requests to the server using RESTful conventions. The API has 3 resources; contact us messages (contact-us-messages), orders (orders), and pizzas.
 
-Click this [link] (https://pizza-ordering-project-backend.herokuapp.com/) to view the json-server which has been hosted using Heroku.
+Click this [link](https://pizza-ordering-project-backend.herokuapp.com/) to view the json-server which has been hosted using Heroku.
 ### Roselyne's Gourmet Pizza JSON-Server Api Features
 * Users can send POST, GET, PATCH and DELETE requests to the 3 resources provided.created.
 ### Installation Guide
